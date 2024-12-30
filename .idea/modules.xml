@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Models/Model.iml" filepath="$PROJECT_DIR$/Models/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Snake-Ladder.iml" filepath="$PROJECT_DIR$/.idea/Snake-Ladder.iml" />
+    </modules>
+  </component>
+</project>
